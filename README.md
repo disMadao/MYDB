@@ -1,6 +1,6 @@
 # MYDB
 一个java实现的数据库。
-主要学习用，整理学习文档，新增全表扫描、两表连接、MVCC版本链功能。
+主要学习用，增加了全表扫描、两表连接、MVCC版本链功能。
 原系统链接：https://github.com/CN-GuoZiyang/MYDB
 
 MYDB 是一个 Java 实现的简单的数据库，部分原理参照自 MySQL、PostgreSQL 和 SQLite。实现了以下功能：
